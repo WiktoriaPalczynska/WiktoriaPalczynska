@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ### Hello World! 👋
 My name is Wiktoria Pałczyńska.</br>
 I am currently studying Applied Computer Science at the University of Wrocław.</br>
+I am a member of the ISSA Polska.</br>
 I am cybersecurity enthusiast.</br>
 </br>
 ## Connect with me
